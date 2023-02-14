@@ -1,0 +1,36 @@
+
+.bg-custom{
+	background-color: #313234;
+}
+.bg-image1{
+	background: url("../media/images/login2.png");
+	position: relative;
+	justify-content: right;
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-attachment: scroll;
+    background-size: cover;
+}
+.card{
+
+width: 500px;
+background-color: rgba(0,0,0,0.7) !important;
+}
+.alt{
+	height: 45px;
+}
+.wid{
+	width: 95%;
+	margin-left: 2%;
+
+}
+.color-custom1{
+	color: #157347;
+}
+.margen-custom{
+	margin-top: 480px;
+	text-decoration: none;
+}
+.v-cus{
+	height: 1000px;
+}

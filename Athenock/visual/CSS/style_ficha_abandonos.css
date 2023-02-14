@@ -1,0 +1,42 @@
+.bg-custom{
+	background-color: #313234;
+}
+.bg-custom1{
+	background-color: #212529;
+}
+.backpage{
+	background-color: #505050;
+	margin: 0 auto;
+	width: 95%;
+	height: auto;
+}
+.img-card{
+	max-height: 283px;
+	max-width: 365px;
+	
+	border-radius: 0.5em;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.clear-link{
+	text-decoration: none;
+}
+.map{
+	
+}
+.btn-cus{
+	background-color: #157347;
+}
+.img-carousel{
+	max-width: 600px;
+	max-height: 400px;
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-attachment: scroll;
+    background-size: cover;
+}
+.clear-link{
+	text-decoration: none;
+}

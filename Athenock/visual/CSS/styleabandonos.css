@@ -1,0 +1,42 @@
+.bg-custom{
+	background-color: #313234;
+}
+.bg-custom1{
+	background-color: #212529;
+}
+.backpage{
+	background-color: #505050;
+	margin: 0 auto;
+	width: 80%;
+	height: auto;
+}
+.img-card{
+	max-height: 183px;
+	max-width: 265px;
+	border: 1px solid black;
+	border-radius: 0.5em;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.card:hover{
+	background-color: #469F32;
+	
+}
+.clear-link{
+	text-decoration: none;
+}
+.map{
+	
+}
+.btn-cus{
+	background-color: #157347;
+}
+.alt{
+	height: 45px;
+}
+.wid{
+	width: 95%;
+	margin-left: 2%;
+
+}
